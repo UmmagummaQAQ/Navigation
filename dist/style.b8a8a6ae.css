@@ -82,6 +82,7 @@ body {
   margin: 20px;
   justify-content: space-between;
 }
+/* 设置PC端 */
 @media (min-width: 500px) {
   .siteList {
     margin-left: 0;
